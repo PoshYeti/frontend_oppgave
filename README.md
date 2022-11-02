@@ -6,9 +6,3 @@ In the project directory, you can run:
 `npm start`
 
 Open `http://localhost:3000` to view it in the browser.
-
-
-# What's been used with react:
-
-Axios - API Handling
-Material UI - Grid/Input/Button
